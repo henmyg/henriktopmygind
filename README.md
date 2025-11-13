@@ -1,2 +1,2 @@
-# henriktopmygind
-My website
+# Henrik Top Mygind
+This is my personal space
